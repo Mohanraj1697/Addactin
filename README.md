@@ -1,1 +1,1 @@
-# Addactin
+# Addactin Hotle Demo Application 
